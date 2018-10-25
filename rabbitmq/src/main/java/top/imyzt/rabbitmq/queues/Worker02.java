@@ -7,7 +7,7 @@ import java.util.concurrent.TimeoutException;
 
 /**
  * Created by imyzt on 2018/10/24 17:08
- * 消费者1
+ * 消费者2
  */
 public class Worker02 {
 
